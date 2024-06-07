@@ -1,0 +1,20 @@
+# Entorno virtual
+.venv/
+
+# Archivos de configuración del entorno de desarrollo
+.idea/
+.vscode/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+
+# Otros archivos ignorables
+*.swp
