@@ -14,7 +14,7 @@ Este proyecto es un bot de automatización para comentar en publicaciones de Ins
 1. **Clonar el repositorio:**
 
 ```bash
-git clone https://github.com/tu_usuario/instagram-comment-bot.git
+git clone https://github.com/paablobello/instagram-comment-bot.git
 cd instagram-comment-bot
 ```
 
